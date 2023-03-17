@@ -1,0 +1,29 @@
+body {
+    background-image: url('images/table.png');
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    cursor: default;
+    margin-top: 10%;
+}
+
+#title {
+    color: goldenrod;
+}
+
+#play-p {
+    font-style: italic;
+}
+
+button {
+    padding: 13px 40px;
+    border-radius: 2px;
+    border: none;
+    background-color: goldenrod;
+    color: #016f32;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 20px;
+}
